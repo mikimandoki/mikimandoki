@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Miki 👋
 
-<!--
-**mikimandoki/mikimandoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I was a kid, my mum bought an egg timer. The first thing I did was twist it the wrong way around. 
 
-Here are some ideas to get you started:
+I irreparably broke it. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for a new role where I can continue exploring and breaking things. 
+
+---
+
+I've worked in corporate, testing insurance systems, and at the free, open source, privacy-focused messaging app [Session](https://getsession.org). 
+
+I have experience with codeless tools (TOSCA style), and have maintained and expanded Session's [mobile](https://github.com/session-foundation/session-appium) and [desktop](https://github.com/session-foundation/session-desktop) automation suites using Appium, Playwright, and TypeScript. 
+
+In my spare time I'm working on a habit tracker app in React called Turnip 🌱. I do plan on Android/iOS distribution, but for now, a demo is available [here](https://turnip-habits.vercel.app).
+
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/miklos-mandoki/) or via [e-mail](mailto:miklosmandoki@gmail.com). 
