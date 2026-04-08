@@ -12,6 +12,6 @@ I've worked in corporate, testing insurance systems, and at the free, open sourc
 
 I have experience with codeless tools (TOSCA style), and have maintained and expanded Session's [mobile](https://github.com/session-foundation/session-appium) and [desktop](https://github.com/session-foundation/session-desktop) automation suites using Appium, Playwright, and TypeScript. 
 
-In my spare time I'm working on a habit tracker app in React called Turnip 🌱. I do plan on Android/iOS distribution, but for now, a demo is available [here](https://turnip-habits.vercel.app).
+In my spare time I'm working on a habit tracker app in React called [Turnip 🌱](https://github.com/mikimandoki/turnip). I do plan on mobile distribution, but for now, a demo is available [here](https://getturnip.com).
 
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/miklos-mandoki/) or via [e-mail](mailto:miklosmandoki@gmail.com). 
